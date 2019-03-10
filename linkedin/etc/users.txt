@@ -1,0 +1,150 @@
+name=Stephanie Eustache, PHR,company=None,website=https://www.linkedin.com/in/seustache/,title=Human Resources Manager at Adweek,id=seustache
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Stefan Bohacek,company=None,website=https://www.linkedin.com/in/stefanbohacek/,title=Full-stack web developer,id=stefanbohacek
+name=Ben Lamm,company=None,website=https://www.linkedin.com/in/benlamm/,title=CEO / Tech Entrepreneur / Investor,id=benlamm
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Christopher Carter,company=None,website=https://www.linkedin.com/in/christopher-carter-a092662/,title=Sales & Business Development Executive/Digital Media and Marketing,id=christopher-carter-a092662
+name=Sammy Nickalls,company=None,website=https://www.linkedin.com/in/sammynickalls/,title=Departments Editor at Adweek,id=sammynickalls
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Nicole Bradley,company=None,website=https://www.linkedin.com/in/nicoledlittle/,title=Communications and Media Specialist,id=nicoledlittle
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Dennis Yu,company=None,website=https://www.linkedin.com/in/dennisyu/,title=Chief Technology Officer, BlitzMetrics,id=dennisyu
+name=David Mondragon,company=None,website=https://www.linkedin.com/in/davidmondragonprofile/,title=CEO, Triton Automotive Group,id=davidmondragonprofile
+name=None,company=None,website=None,title=None,id=unknown
+name=Danny Wright,company=None,website=https://www.linkedin.com/in/dannywright/,title=Managing Partner Adweek Awards, Honors & Events,id=dannywright
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Leslie Blount,company=None,website=https://www.linkedin.com/in/leslie-blount-a14896a/,title=Awards, Honors and Events at Adweek,id=leslie-blount-a14896a
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=A.J. K.,company=None,website=https://www.linkedin.com/in/ajkatz/,title=TV/Media Reporter, Adweek | Editor, TVNewser,id=ajkatz
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Ronan Shields,company=None,website=https://www.linkedin.com/in/ronan-shields-98252511/,title=Writer covering ad tech,id=ronan-shields-98252511
+name=Segun Onibalusi,company=None,website=https://www.linkedin.com/in/segun-onibalusi-3a77ba60/,title=Contributing Writer at Adweek, Entrepreneur Mag, Glassdoor.com, HuffPost Uk. Blockchain PR & Writer & Founder at SEO POW,id=segun-onibalusi-3a77ba60
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Doug Zanger,company=None,website=https://www.linkedin.com/in/zanger/,title=Senior Editor at Adweek,id=zanger
+name=Jacob Warwick,company=None,website=https://www.linkedin.com/in/jacobwarwick/,title=Founder & CEO | Discover Podium & ThinkWarwick | I help executive leaders position & market their careers better,id=jacobwarwick
+name=Audrey Wu,company=None,website=https://www.linkedin.com/in/audreyellenwu/,title=Co-Founder + CEO CONVRG | Building AI Voice and Messaging experiences | Conversational Commerce | Keynote Speaker,id=audreyellenwu
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Molly St. Louis,company=None,website=https://www.linkedin.com/in/molly-st-louis-4359bb55/,title=Senior Director Of Marketing at YapStone / Writer for Adweek,id=molly-st-louis-4359bb55
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Jemima Mendenhall,company=None,website=https://www.linkedin.com/in/jemima-mendenhall-98431575/,title=Senior Marketing Manager – Awards, Honors and Events at Adweek,id=jemima-mendenhall-98431575
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Biz Mulu,company=None,website=https://www.linkedin.com/in/biz-mulu-15645755/,title=Director of Client Success at Adweek,id=biz-mulu-15645755
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Kathleen Griffith,company=None,website=https://www.linkedin.com/in/kathleen-griffith-86826919/,title=Founder & CEO, Grayce & Co,id=kathleen-griffith-86826919
+name=Olivia Mannix,company=None,website=https://www.linkedin.com/in/olivia-mannix-59a87b49/,title=Founder/CEO at Cannabrand Inc. Contributing Writer at Adweek,id=olivia-mannix-59a87b49
+name=Mehmet Orhun Zenginler, M.S.,company=None,website=https://www.linkedin.com/in/mehmetorhunzenginler/,title=Vice President at Adweek,id=mehmetorhunzenginler
+name=Jim Cooper,company=None,website=https://www.linkedin.com/in/jamescooper-1233b37/,title=Editorial Director at Adweek,id=jamescooper-1233b37
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Chris Ariens,company=None,website=https://www.linkedin.com/in/chris-ariens-67a6985/,title=Director of Video at Adweek,id=chris-ariens-67a6985
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Rachel Abbe,company=None,website=https://www.linkedin.com/in/rachel-abbe-9a86b4122/,title=Corporate Intern at Adweek,id=rachel-abbe-9a86b4122
+name=None,company=None,website=None,title=None,id=unknown
+name=Katie Richards,company=None,website=https://www.linkedin.com/in/ktjrichards/,title=Staff Writer at Adweek,id=ktjrichards
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Amber McAden,company=None,website=https://www.linkedin.com/in/ambermcaden/,title=UI/UX Designer,id=ambermcaden
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Patrick Kulp,company=None,website=https://www.linkedin.com/in/patrickkulp/,title=Tech reporter at Adweek,id=patrickkulp
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Dave Saabye,company=None,website=https://www.linkedin.com/in/saabye/,title=SVP Customer Experience at Adweek,id=saabye
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=Terry Stanley,company=None,website=https://www.linkedin.com/in/tlstanley/,title=Freelance writer, blogger, communications specialist, editor and content creator,id=tlstanley
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
+name=None,company=None,website=None,title=None,id=unknown
