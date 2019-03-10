@@ -1,1 +1,1 @@
--r etc/requirements/development.txt
+-r linkedin/etc/requirements/development.txt
